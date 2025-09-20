@@ -1,0 +1,7 @@
+# Criar requirements.txt com Flask e MySQL connector
+echo "flask
+mysql-connector-python" > requirements.txt
+
+# Instalar os pacotes
+pip install -r requirements.txt
+

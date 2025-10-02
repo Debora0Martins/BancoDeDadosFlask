@@ -93,7 +93,7 @@ Python / Flask: backend e API
 
 Postman (opcional): teste de endpoints da API
 
-📚 Recursos Úteis
+## 📚 Recursos Úteis
 
 Documentação Flask
 
@@ -103,7 +103,7 @@ Python 3 Docs
 
 Tutorial CRUD Flask + MySQL
 
-✍️ Boas Práticas Adotadas
+## ✍️ Boas Práticas Adotadas
 
 Uso de setup.sql para inicialização do banco
 
@@ -115,7 +115,7 @@ Inserção de dados de teste para desenvolvimento rápido
 
 Comentários claros no código
 
-🖊 Autor
+## 🖊 Autor
 
 Débora Flaviana da Silva Almeida Martins
 
